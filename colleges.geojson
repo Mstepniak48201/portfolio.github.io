@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Name": "Baker College Center of Transportation", "Employees": 0, "Students": 0 }, "geometry": { "type": "Point", "coordinates": [ -83.653890919926923, 43.01043580061075 ] } },
+{ "type": "Feature", "properties": { "id": 2, "Name": "Mott Community College", "Employees": 445, "Students": 6964 }, "geometry": { "type": "Point", "coordinates": [ -83.672753127202171, 43.019344714475864 ] } },
+{ "type": "Feature", "properties": { "id": 3, "Name": "University of Michigan Flint", "Employees": 1098, "Students": 6585 }, "geometry": { "type": "Point", "coordinates": [ -83.688369611886472, 43.018747901957326 ] } },
+{ "type": "Feature", "properties": { "id": 5, "Name": "Kettering University", "Employees": 388, "Students": 1991 }, "geometry": { "type": "Point", "coordinates": [ -83.712821080419317, 43.012349687620336 ] } },
+{ "type": "Feature", "properties": { "id": 6, "Name": "Baker College", "Employees": 404, "Students": 3726 }, "geometry": { "type": "Point", "coordinates": [ -83.694892091547786, 42.974912313681216 ] } }
+]
+}
